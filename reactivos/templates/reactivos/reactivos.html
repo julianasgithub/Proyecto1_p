@@ -1,0 +1,149 @@
+{% extends "Proyecto1_app/base.html" %}
+{% load static %}
+
+{% block content %}
+
+
+
+<style>
+  .custom-align-center {
+  display: flex;
+  align-items: center;
+}
+  
+.espacio-en-blanco {
+  height: 20px; /* Ajusta la altura según el espacio que desees */
+}
+
+ 
+.mi-tabla-container {
+    
+   margin:auto;
+    width: 99%;
+}  
+  
+    .footer {
+   background-color: rgb(69, 29, 143, 0.8);
+}
+
+    
+    .violet-row {
+        background-color: rgb(74, 74, 185);
+    }
+
+    .even-row {
+        background-color: rgb(255, 255, 255);
+    }
+
+    .odd-row {
+        background-color: #ddc5dd; /* Otra opción para gris claro */
+    }
+
+</style>
+
+<div class="espacio-en-blanco"></div>
+
+<div class="mi-tabla-container">
+  <!-- Agrega un formulario de búsqueda encima de la tabla -->
+  <form class= "mi-tabla-container" method="get" action="{% url 'buscar_productos' %}">
+      <div class="form-group d-flex">
+          <input type="text" name="q" class="form-control" id="search_input" placeholder="Ingresa tu búsqueda">
+      <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+    
+  </form>
+
+
+
+  <div class="espacio-en-blanco"></div>
+
+
+
+<div class="mi-tabla-container">
+  <table class="table table-bordered text-center">
+      <thead>
+          <tr class="violet-row" >
+              <th>Categoría</th>
+              <th>ID</th>
+              <th>Nombre</th>
+              <th>Name</th>
+              <th>Marca</th>
+              <th>Ubicación</th>
+              <th>Cantidad</th>
+              <th>Unidades</th>
+              <th>Abierto</th>
+              <th>Sedronar</th>
+              <th>Descarte</th>
+              <th>Consumo</th>
+              <th>Editar</th>
+              
+          </tr>
+      </thead>
+      <tbody>
+          {% for producto in productos %}
+              <tr class="{% cycle 'even-row' 'odd-row' %}">
+                  <td>{{producto.categorias}}</td>
+                  <td>{{ producto.identificacion }}</td>
+                  <td>{{ producto.nombre }}</td>
+                  <td>{{ producto.name }}</td>
+                  <td>{{ producto.marca }}</td>
+                  <td>{{ producto.ubicacion }}</td>
+                  <td>{{ producto.cantidad|floatformat:2 }} {{ producto.unidad }}</td>
+                  <td>{{ producto.unidades }}</td>
+                  <td>{% if producto.abierto %}Sí{% else %}No{% endif %}</td>
+                  <td>{% if producto.sedronar %}Sí{% else %}No{% endif %}</td>
+                  <td><a href="#" onclick="mostrarDescarte('{{ producto.descarte }}')">Ver Descarte</a></td>
+                    <td>
+                        <form method="post" action="{% url 'cargar_consumo' producto.id %}">
+                            {% csrf_token %}
+                            <div class="input-group input-group-sm">
+                                <input type="number" step="0.0001" name="descuento" placeholder="Consumido" class="form-control" />
+                                <div class="input-group-append">
+                                    <button type="submit" class="btn btn-success btn-sm">Cargar</button>
+                                </div>
+                            </div>
+                        </form>
+                    </td>
+                  <td><a href="{% url 'editar_reactivos' producto.id %}">Editar</a></td>
+              </tr>
+          {% endfor %}
+      </tbody>
+  </table>
+</div>
+<script>
+    function mostrarDescarte(descarte) {
+      // Abrir una nueva ventana emergente
+      var popup = window.open('', '_blank', 'width=600,height=400');
+  
+      // Cargar el contenido en la ventana emergente
+      if (popup) {
+        popup.document.write('<html><head><title>Descarte</title></head><body>');
+        popup.document.write('<h2>Este reactivo debe descartarse como:</h2>');
+        popup.document.write('<p>' + (descarte ? descarte : '') + '</p>');
+        popup.document.write('</body></html>');
+      } else {
+        alert('No se pudo abrir la ventana emergente. Asegúrate de permitir ventanas emergentes en tu navegador.');
+      }
+    }
+  </script>
+<div class="espacio-en-blanco"></div>
+
+<div class="text-center">
+    <a href="{% url 'nuevo_reactivo' %}" class="btn btn-primary">Agregar Reactivo</a>
+  </div>
+
+<div class="espacio-en-blanco"></div>
+<div class="d-flex justify-content-center">
+<a href="{% url 'exportar_csv' %}" class="btn btn-primary m-2">Exportar lista completa</a>
+
+<a href="{% url 'exportar_csv_sedronar' %}" class="btn btn-primary m-2">Exportar reactivos sedronar</a>
+
+
+<a href="{% static 'Proyecto1_app/img/et_residuos.jpg'%}" target="_blank" class="btn btn-primary m-2">Ver etiquetas para residuos</a>
+
+</div>
+</div>
+{% endblock %}
+
+<div class="espacio-en-blanco"></div>
+

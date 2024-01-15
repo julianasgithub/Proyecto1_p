@@ -1,0 +1,236 @@
+	identificacion	name	nombre	marca	cas	categoria	sedronar	abierto	cantidad_numeros	unidad
+0	C-1	neutral red	Rojo neutro	Erovne	553-24-2	colorantes	False	True	5	gr
+1	C-2	pan-1-(2-pyridylazo)2-naphtol	PAN- piridilazonaftol	UCB	85-85-8	colorantes	False	True	1	gr
+2	C-3	Methyl Red	rojo de metilo	Merck	493-52-7	colorantes	False	True	5	gr
+3	C-4	4-(2-Pyridylazo)resorcinol monosodium salt hydrate	PAN- piridilazoresorcinol sal sdica	Koch-Light	16593-81-0	colorantes	False	True	2.5	gr
+4	C-5	Eriochrome Black T	negro de eriocromo T	UCB	1787-61-7	colorantes	False	True	25	gr
+5	C-6	Metanil Yellow	amarillo de metanilo	desc	587-98-4	colorantes	False	True		
+6	C-7	Aluminon	Aluminon	BDH	569-58-4	colorantes	False	True	10	gr
+7	C-8	Phenolphthalein	fenolftalena	Mallinckrodt	77-09-8	colorantes	False	True	100	gr
+8	C-9	Bromocresol green	verde de bromocresol	Purest	76-60-8	colorantes	False	True	1	gr
+9	C-10	Acid Fuchsin	Fucsina	Qumica Labor	3244-88-0	colorantes	False	True	10	gr
+10	C-11	Methyl violet B 	violeta de metilo			colorantes	False	True	10	gr
+11	I-01	Cadmium sulphate	sulfato de cadmio	Mallinckrodt	10124-36-4	inorganicos	False	True	250	gr
+12	I-01	Cadmium sulphate	sulfato de cadmio	Aldrich	10124-36-4	inorganicos	False	True	20	gr
+13	I-01	Cadmium sulphate	sulfato de cadmio	Analar	10124-36-4	inorganicos	False	True	20	gr
+14	I-02	Lead(II) oxide	xido de plomo (II)	Analar	1317-36-8	inorganicos	False	True	125	gr
+15	I-03	Hydroxylammonium sulfate	sulfato de hidroxilamonio	Merck	10039-54-0	inorganicos	False	True	100	gr
+16	I-04	Ruthenium(III) chloride	cloruro de rutenio	Merck		inorganicos	False	True	500	mg
+17	I-05	Mercury(II) nitrate monohydrate	nitrato de mercurio (I) monohidrato	Carlo Erba	7783-34-8	inorganicos	False	True	100	gr
+18	I-06	Sodium thiosulfate	tiosulfato de sodio	Mallinckrodt	10102-17-7	inorganicos	False	True	250	gr
+19	I-07	Ammonium iron(III) sulfate	Sulfato Frrico Amnico	Merck	7783-83-7	inorganicos	False	True	100	gr
+20	I-08	Mercury(I) sulfate	sulfato de mercurio (I)	Aldrich	7783-36-0	inorganicos	False	True	25	gr
+21	I-09	Lead(II) nitrate	Nitrato de Plomo	Mallinckrodt	10099-74-8	inorganicos	False	True	250	gr
+22	I-10	Iodine	iodo	Soria Farma	7553-56-2	inorganicos	True	True	100	gr
+23	I-11	Silver perchlorate	perclorato de plata	BDH	7783-93-9	inorganicos	False	True	25	gr
+24	I-12	Lead(II) carbonate basic	carbonato bsico de plomo	BDH	1319-46-6	inorganicos	False	True	250	gr
+25	I-13	Hydroxylamine hydrochloride	cloruro de hidroxilamina	Mallinckrodt	1/11/5470	inorganicos	False	True	500	gr
+26	I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	Merck	7783-34-8	inorganicos	False	True	2	x
+27	I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	Riedel-DeHaen	7783-34-8	inorganicos	False	True	100	gr
+28	I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	Merck	7783-34-8	inorganicos	False	True	100	gr
+29	I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	Merck	7783-34-8	inorganicos	False	True	50	gr
+30	I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	Carlo Erba	7783-34-8	inorganicos	False	True	250	gr
+31	I-15	Europium(III) chloride hexahydrate	Cloruro de Europio hexahidrato	Aldrich	13759-92-7	inorganicos	False	True	5	gr
+32	I-16	Sodium periodate	peryodato de sodio	Merck	7790-28-5	inorganicos	False	True	100	gr
+33	I-17	Silver nitrate	nitrato de plata	Anedra	7761-88-8	inorganicos	False	True	100	gr
+34	I-17	Silver nitrate	nitrato de plata	Merck	7761-88-8	inorganicos	False	True	100	gr
+35	I-18	Ammonium hexachloroosmate(IV)	Hexacloroosmato de Amonio	Aldrich		inorganicos	False	True	500	mg
+36	I-19	Ammonium cerium(IV) sulfate dihydrate	Sulfato Crico Amnico	Merck	10378-47-9	inorganicos	False	True	100	gr
+37	I-20	mercury	Mercurio	Cicarelli	7439-97-6	inorganicos	False	True	1	Kg
+38	I-20	mercury	Mercurio	Cicarelli	7439-97-6	inorganicos	False	True	1	Kg
+39	I-20	mercury	Mercurio	Timper	7439-97-6	inorganicos	False	True	1	Kg
+40	I-21	Lead(II) fluoride	fluoruro de plomo	Aldrich	7783-46-2	inorganicos	False	True	100	gr
+41	I-22	Potassium permanganate	permanganato de potasio	Parafarm	7722-64-7	inorganicos	True	True	750	gr
+42	I-23	Sodium nitrite	nitrito de sodio	Carlo Erba	7632-00-0	inorganicos	False	True	1000	gr
+43	I-24	potassium ethyl xanthogenate	etilxantato de potasio	Flucka	140-89-6	inorganicos	False	True	200	gr
+44	I-25	Chromium(VI) oxide	trixido de cromo	BDH	1333-82-0	inorganicos	False	True	250	gr
+45	I-26	Aluminum potassium sulfate dodecahydrate	sulfato de potasio y aluminio	Analar	7784-24-9	inorganicos	False	True	500	gr
+46	I-27	Potassium chromate	cromato de potasio	Carlo Erba	7789-00-6	inorganicos	False	True	250	gr
+47	I-28	Lithium hydroxide	hidrxido de litio	Merck	7790-84-3	inorganicos	False	True	250	gr
+48	I-28	Lithium hydroxide	hidrxido de litio	H&W	7790-84-3	inorganicos	False	True	250	gr
+49	I-29	Sodium sulfite	sulfito de sodio	Mallinckrodt	7757-83-7	inorganicos	False	True	1000	gr
+50	I-30	Cupric sulfate pentahydrate	sulfato cprico	Merck	7758-99-8	inorganicos	False	True	250	gr
+51	I-30	Cupric sulfate pentahydrate	sulfato cprico	AnalQuim	7758-99-8	inorganicos	False	True	500	gr
+52	I-30	Cupric sulfate pentahydrate	sulfato cprico	BDH	7758-99-8	inorganicos	False	True	500	gr
+53	I-31	Sodium metavanadate	monovanadato de sodio	Merck	13718-26-8	inorganicos	False	True	100	gr
+54	I-32	Neochromium	sulfato basico de cromo (III) -neocromo	Riedel-DeHaen	64093-79-4	inorganicos	False	True	500	gr
+55	I-33	Sodium iodide	ioduro de sodio	Merck	7681-82-5	inorganicos	False	True	250	gr
+56	I-34	Iron(III) sulfate hydrate	sulfato frrico	Mallinckrodt		inorganicos	False	True	100	gr
+57	I-35	Zinc metal	"""zinc, granallas"""	Merck	7440-66-6	inorganicos	False	True	1000	gr
+58	I-35	Zinc metal	"""zinc, granallas"""	Merck	7440-66-6	inorganicos	False	True	1000	gr
+59	I-36	Potassium thiocyanate	tiocianato de potasio	Merck	333-20-0	inorganicos	False	True	250	gr
+60	I-37	Mercury(II) chloride	cloruro de mercurio (II)	Analar	7487-94-7	inorganicos	False	True	100	gr
+61	I-37	Mercury(II) chloride	cloruro de mercurio (II)	Timper	7487-94-7	inorganicos	False	True	100	gr
+62	I-38	Manganese sulfate	sulfato de manganeso	Merck	10034-96-5	inorganicos	False	True	250	gr
+63	I-39	Copper(II) oxide	oxido cprico	Carlo Erba	1317-38-0	inorganicos	False	True	200	gr
+64	I-40	Iron(III) chloride hexahydrate	cloruro frrico	Merck	10025-77-1	inorganicos	False	True	100	gr
+65	I-40	Iron(III) chloride hexahydrate	cloruro frrico	J.T. Baker	10025-77-1	inorganicos	False	True	500	gr
+66	I-41	Ferrous sulfate	Sulfato Ferroso	Merck	7782-63-0	inorganicos	False	True	500	gr
+67	I-42	Sodium dichromate dihydrate	Dicromato de Sodio dihidrato	Mallinckrodt	7789-12-0	inorganicos	False	True	1	Kg
+68	I-43	Potassium bromide	bromuro de potasio	Merck	3/2/7758	inorganicos	False	True	500	gr
+69	I-43	Potassium bromide	bromuro de potasio	Anedra	3/2/7758	inorganicos	False	True	250	gr
+70	I-43	Potassium bromide	bromuro de potasio	Desconocido	3/2/7758	inorganicos	False	True	100	gr
+71	I-44	Sodium fluoride	fluoruro de sodio	Merck	7681-49-4	inorganicos	False	True	250	gr
+72	I-44	Sodium fluoride	fluoruro de sodio	Merck	7681-49-4	inorganicos	False	True	25	gr
+73	I-44	Sodium fluoride	fluoruro de sodio	Aristar	7681-49-4	inorganicos	False	True	50	gr
+74	I-45	Potassium dichromate	dicromato de potasio	Mallinckrodt	7778-50-9	inorganicos	False	True	250	gr
+75	I-45	Potassium dichromate	dicromato de potasio	(Desconocido)	7778-50-9	inorganicos	False	True	1000	gr
+76	I-46	Potassium iodide	ioduro de potasio	Merck	7681-11-0	inorganicos	False	True	250	gr
+77	I-46	Potassium iodide	ioduro de potasio	RHODIA	7681-11-0	inorganicos	False	True	250	gr
+78	I-47	Chromium(III) sulfate hydrate	Sulfato de Cromo (III)	Carlo Erba	15244-38-9	inorganicos	False	True	250	gr
+79	I-48	Nickel(II) sulfate hexahydrate	Sulfato de Nquel Heptahidratado	Merck	10101-97-0	inorganicos	False	True	250	gr
+80	I-49	Antimony(III) chloride	Cloruro de Antimonio	Analar	10025-91-9	inorganicos	False	True	100	gr
+81	I-49	Antimony(III) chloride	Cloruro de Antimonio	Riedel-DeHaen	10025-91-9	inorganicos	False	True	250	gr
+82	I-50	Aluminum chloride	Cloruro de Aluminio	Merck	7446-70-0	inorganicos	False	True	1000	gr
+83	I-51	Zinc sulfate	Sulfato de Zinc	(Desconocido)	7446-20-0	inorganicos	False	True	100	gr
+84	I-51	Zinc sulfate heptahydrate	Sulfato de Zinc heptahidratado	Mallinckrodt	7446-20-0	inorganicos	False	True	100	gr
+85	I-52	Sodium bromide	Bromuro de Sodio	Mallinckrodt	7647-15-6	inorganicos	False	True	250	gr
+86	I-53	Ammonium persulfate	Persulfato de Amonio	Anedra	7727-54-0	inorganicos	False	True	250	gr
+87	I-54	Stannous chloride dihydrate	cloruro de estao.2 H2O	Merck	10025-69-1	inorganicos	False	True	100	gr
+88	I-54	Stannous chloride dihydrate	cloruro de estao.2 H2O	Mallinckrodt	10025-69-1	inorganicos	False	True	250	gr
+89	I-55	Phosphorus pentoxide	oxido de fosforo	Flucka	1314-56-3	inorganicos	False	True	100	gr
+90	I-55	Phosphorus pentoxide	oxido de fosforo	Riedel-DeHaen	1314-56-3	inorganicos	False	True	500	gr
+91	I-56	Bismuth(III) nitrate pentahydrate	nitrato de bismuto	Carlo Erba	10035-06-0	inorganicos	False	True	100	gr
+92	I-57	Mercury(I) chloride	Cloruro de mercurio (I)	Merck	10112-91-1	inorganicos	False	True	25	gr
+93	I-58	Lead (II) sulfate	Sulfato de plomo (II)	Aldrich		inorganicos	False	True	10	gr
+94	I-59	Gallium (III) oxide	xido de galio (III)	Aldrich		inorganicos	False	True	1	gr
+95	I-60	Germanium dioxide	Dixido de Germanio	Aldrich		inorganicos	False	True	10	gr
+96	I-61 	sodium metasilicate	Metasilicato de sodio	Desconocido		inorganicos	False	True	5	gr
+97	I-62	arsenic trioxide 	trixido de arsnico	Mallinckrodt		inorganicos	False	True	30	gr
+98	I-62	arsenic trioxide 	trixido de arsnico	Desconocido		inorganicos	False	True	5	gr
+99	I-63	silver paint	pintura de plata			inorganicos	False	True		
+100	I-64	cobalt (II) sulfate heptahydrate	sulfato de cobalto (II) heptahidratado	Mallinckrodt		inorganicos	False	True	2	gr
+101	I-65	silver sulfate	sulfato de plata	(Aanalar)		inorganicos	False	True	50	gr
+102	I-65	silver sulfate	sulfato de plata	Merck		inorganicos	False	True	2	gr
+103	I-66	sodium thiocyanate	tiocianato de sodio	Mallinckrodt		inorganicos	False	True	100	gr
+104	I-67	Nickel fluoride	Fluoruro de nickel	BDH	10028-18-9	inorganicos	False	True	100	g
+105	A-1	Nitric acid	cido ntrico	Merck	7697-37-2	cidos	False	True	1	L
+106	A-1	Nitric acid	cido ntrico	Merck	7697-37-2	cidos	False	True	0.7	L
+107	A-1	Nitric acid	cido ntrico	Mallinckrodt	7697-37-2	cidos	False	True	1.25	L
+108	A-2	Hydrochloric acid	cido Clorhdrico	Merck	7647-01-0	cidos	True	True	1.5	L
+109	A-2	Hydrochloric acid	cido Clorhdrico	Carlo Erba	7647-01-0	cidos	True	True	5	L
+110	A-2	Hydrochloric acid	cido Clorhdrico	JT Baker	7647-01-0	cidos	True	True	1	L
+111	A-2	Hydrochloric acid	cido Clorhdrico	Anedra	7647-01-0	cidos	True	True	1	L
+112	A-3	Sulfuric acid	cido sulfrico	Merck	7664-93-9	cidos	True	True	0.5	L
+113	A-3	Sulfuric acid	cido sulfrico	Merck	7664-93-9	cidos	True	True	1.5	L
+114	A-3	Sulfuric acid	cido sulfrico	Merck	7664-93-9	cidos	True	True	2.4	L
+115	A-3	Sulfuric acid	cido sulfrico	Carlo Erba	7664-93-9	cidos	True	True	0.7	L
+116	A-3	Sulfuric acid	cido sulfrico fumante	Carlo Erba	7664-93-9	cidos	True	True	0.95	L
+117	A-3	Sulfuric acid	cido sulfrico	JT Baker	7664-93-9	cidos	True	True	0.6	L
+118	A-3	Sulfuric acid	cido sulfrico	Merck	7664-93-9	cidos	True	True	0.6	L
+119	A-3	Sulfuric acid	cido sulfrico	Carlo Erba	7664-93-9	cidos	True	True	2.5	L
+120	A-4	Perchloric acid	cido perclrico	Merck	7601-90-3	cidos	False	True	1	L
+121	A-4	Perchloric acid	cido perclrico	Merck	7601-90-3	cidos	False	True	0.8	L
+122	A-4	Perchloric acid	cido perclrico	Merck	7601-90-3	cidos	False	True	2	L
+123	A-4	Perchloric acid	cido perclrico	Merck	7601-90-3	cidos	False	True	0.8	L
+124	A-5	Tetrafluoroboric acid	cido fluorobrico 50%	Riedel-DeHaen	16872-11-0	cidos	False	True	0.9	L
+125	S-1	1-Methyl-2-pyrrolidinone	N-metil 2 pirrolidona	Fluka	872-50-4	solventes	False	True	0.5	L
+126	S-1	1-Methyl-2-pyrrolidinone	N-metil 2 pirrolidona	Aldrich	872-50-4	solventes	False	True	1	L
+127	S-1	1-Methyl-2-pyrrolidinone	N-metil 2 pirrolidona	Anedra	872-50-4	solventes	False	True	1	L
+128	S-2	"""Ethyl alcohol, Pure"""	etanol abs	Anedra	64-17-5	solventes	True	True	0.5	L
+129	S-3	Ammonium hydroxide solution	hidrxido de amonio	Cicarelli	1336-21-6	solventes	True	True	0.8	L
+130	S-4	Extran MA 02 | 107553 - Merck Millipore	Extran MA 02 neutro	Merck	nn	solventes	False	True	0.4	L
+131	E-1	Sodium hydroxide	Hidrxido de Sodio	Mallinckrodt	1310-73-2	electrolitos_buffers	True	True	0.7	L
+132	E-1	Sodium hydroxide	Hidrxido de Sodio	Merck	1310-73-2	electrolitos_buffers	True	True	0.7	L
+133	E-1	Sodium hydroxide	Hidrxido de Sodio	Carlo Erba	1310-73-2	electrolitos_buffers	True	True	0.6	L
+134	E-1	Sodium hydroxide	Hidrxido de Sodio	Merck	1310-73-2	electrolitos_buffers	True	True	0.7	L
+135	E-2	Sodium carbonate	Carbonato de Sodio	Merck	497-19-8	electrolitos_buffers	True	True	0.25	L
+136	E-2	Sodium carbonate	Carbonato de Sodio	Merck	497-19-8	electrolitos_buffers	True	True	0.25	L
+137	E-2	Sodium carbonate	Carbonato de Sodio	Mallinckrodt	497-19-8	electrolitos_buffers	False	True	0.1	L
+138	E-3	Potassium bisulfate	Sulfato cido de Potasio	Carlo Erba	7646-93-7	electrolitos_buffers	False	True	1	L
+139	E-4	Potassium sulfate	Sulfato de Potasio	Anal Chim	7778-80-5	electrolitos_buffers	False	True	0.15	L
+140	E-4	Potassium sulfate	Sulfato de Potasio	Merck	7778-80-5	electrolitos_buffers	False	True	0.05	L
+141	E-4	Potassium sulfate	Sulfato de Potasio	Merck	7778-80-5	electrolitos_buffers	False	True	0.05	L
+142	E-4	Potassium sulfate	Sulfato de Potasio	Merck	7778-80-5	electrolitos_buffers	False	True	0.1	L
+143	E-4	Potassium sulfate	Sulfato de Potasio	Baker	7778-80-5	electrolitos_buffers	False	True	0.4	L
+144	E-4	Potassium sulfate	Sulfato de Potasio	Merck	7778-80-5	electrolitos_buffers	False	True	0.05	L
+145	E-5	Sodium sulfate	Sulfato de Sodio	Merck	7757-82-6	electrolitos_buffers	True	True	0.05	L
+146	E-5	Sodium sulfate	Sulfato de Sodio	Anedra	7757-82-6	electrolitos_buffers	True	True	0.1	L
+147	E-5	Sodium sulfate	Sulfato de Sodio	Merck	7757-82-6	electrolitos_buffers	True	True	0.05	L
+148	E-6	Potassium chloride	Cloruro de Potasio	Biopack	7447-40-7	electrolitos_buffers	False	True	1	L
+149	E-7	Potassium nitrate	Nitrato de Potasio	Carlo Erba	7757-79-1	electrolitos_buffers	False	True	1	L
+150	E-7	Potassium nitrate	Nitrato de Potasio	Merck	7757-79-1	electrolitos_buffers	False	True	0.5	L
+151	E-7	Potassium nitrate	Nitrato de Potasio	Carlo Erba	7757-79-1	electrolitos_buffers	False	True	1	L
+152	E-7	Potassium nitrate	Nitrato de Potasio	Carlo Erba	7757-79-1	electrolitos_buffers	False	True	1	L
+153	E-8	Sodium chloride	Cloruro de Sodio	Merck	7647-14-5	electrolitos_buffers	False	True	1	L
+154	E-9	Sodium phosphate dibasic 	Fosfato de Sodio dibsico	J.T. Baker	7558-79-4	electrolitos_buffers	False	True	0.5	L
+155	E-10	Sodium phosphate monobasic	Fosfato de Potasio monobsico	Anedra	7558-80-7	electrolitos_buffers	False	True	0.5	L
+156	E-11	Edetate disodium (EDTA disodium salt)	Etilendiamina tetraacetato de Sodio (EDTA)	Mallinckrodt	6381-92-6	electrolitos_buffers	False	True	0.5	L
+157	E-12	Ammonium acetate	Acetato de Amonio	Cicarelli	631-61-8	electrolitos_buffers	False	True	1	L
+158	E-13	Boric acid	cido Brico	Merck	10043-35-3	electrolitos_buffers	False	True	1	L
+159	E-14	Silicic acid	cido Silcico	Mallinckrodt	1343-98-2	electrolitos_buffers	False	True	0.5	L
+160	E-15	Oxalic acid	cido Oxlico	Carlo Erba	144-62-7	electrolitos_buffers	False	True	0.5	L
+161	E-16	Potassium hydrogen phthalate	Biftalato de Potasio	Merck	877-24-7	electrolitos_buffers	False	True	0.25	L
+162	E-16	Potassium hydrogen phthalate	Biftalato de Potasio	Fluka	877-24-7	electrolitos_buffers	False	True	0.1	L
+163	E-17	Lithium perchlorate	Perclorato de Litio	Merck	9/3/7791	electrolitos_buffers	False	True	0.25	L
+164	E-17	Lithium perchlorate	Perclorato de Litio	Fluka	9/3/7791	electrolitos_buffers	False	True	0.5	L
+165	E-18	Sodium perchlorate monohydrate	Perclorato de Sodio monohidratado	Fluka	3/7/7791	electrolitos_buffers	False	True	1	L
+166	E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	Merck	14459-95-1	electrolitos_buffers	False	True	0.5	L
+167	E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	Mallinckrodt	14459-95-1	electrolitos_buffers	False	True	0.5	L
+168	E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	Mallinckrodt	14459-95-1	electrolitos_buffers	False	True	0.5	L
+169	E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	Mallinckrodt	14459-95-1	electrolitos_buffers	False	True	1	L
+170	E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	Carlo Erba	14459-95-1	electrolitos_buffers	False	True	0.1	L
+171	E-20	Potassium ferricyanide(III)	Ferricianuro de Potasio	Fluka	13746-66-2	electrolitos_buffers	False	True	0.1	L
+172	E-20	Potassium ferricyanide(III)	Ferricianuro de Potasio	Merck	13746-66-2	electrolitos_buffers	False	True	0.1	L
+173	E-21	Tetrabutylammonium hexafluorophosphate	Hexafluorofosfato de terbutilamonio	Aldrich	3109-63-5	electrolitos_buffers	False	True	0.1	L
+174	E-21	Tetrabutylammonium hexafluorophosphate	Hexafluorofosfato de terbutilamonio	Aldrich	3109-63-5	electrolitos_buffers	False	True	0.1	L
+175	E-22	Tetramethylammonium tetrafluoroborate	Tetrafluoroborato de tetrametilamonio	Fluka	661-36-9	electrolitos_buffers	False	True	0.05	L
+176	E-22	Tetramethylammonium tetrafluoroborate	Tetrafluoroborato de tetrametilamonio	Fluka	661-36-9	electrolitos_buffers	False	True	0.05	L
+177	E-22	Tetramethylammonium tetrafluoroborate	Tetrafluoroborato de tetrametilamonio	Aldrich	661-36-9	electrolitos_buffers	False	True	0.1	L
+178	E-23	Tetramethylammonium hexafluorophosphate	Hexafluorofosfato de tetrametilamonio	Aldrich	558-32-7	electrolitos_buffers	False	True	0.025	L
+179	E-24	Tetramethylammonium bromide	Bromuro de tetrametilamonio	Eastman	64-20-0	electrolitos_buffers	False	True	0.5	L
+180	E-25	Tetraethylammonium perchlorate	Perclorato de tetraetilamonio	Carlo Erba	2567-83-1	electrolitos_buffers	False	True	0.025	L
+181	E-25	Tetraethylammonium perchlorate	Perclorato de tetraetilamonio	Eastman	2567-83-1	electrolitos_buffers	False	True	0.1	L
+182	E-26	Sodium tetraborate decahydrate	Borato de Sodio	Mallinckrodt	1303-96-4	electrolitos_buffers	False	True	0.5	L
+183	E-27	Potassium perchlorate	Perclorato de Potasio	Carlo Erba	7778-74-7	electrolitos_buffers	False	True	0.25	L
+184	E-27	Potassium perchlorate	Perclorato de Potasio	C&B	7778-74-7	electrolitos_buffers	False	True	0.25	L
+185	E-28	Lithium nitrate	Nitrato de Litio	Fluka	7790-69-4	electrolitos_buffers	False	True	0.25	L
+186	E-29	Ammonium fluoride	Fluoruro de Amonio	Anedra		electrolitos_buffers	False	True	0.1	L
+187	E-30	Potassium hexafluorophosphate	Hexafluorofosfato de Potasio	Ozark	17084-13-8	electrolitos_buffers	False	True	0.5	L
+188	E-40	potassium phosphate monobasic	Fosfato monobsico de potasio	Mallinckrodt		electrolitos_buffers	False	True	0.2	L
+189	E-40	potassium phosphate monobasic	Fosfato monobsico de potasio	Merck		electrolitos_buffers	False	True	1	L
+190	E-41	Tetraethylammonium chloride	Cloruro de tetraetilamonio	BDH	56-34-8	electrolitos_buffers	False	True	0.01	L
+191	Ar-1	Benzoic acid	cido Benzoico	Anedra	65-85-0	aromaticos	False	True	100	gr
+192	Ar-1	Benzoic acid	cido Benzoico	Aldrich	65-85-0	aromaticos	False	True	500	gr
+193	Ar-2	"""2,4-Dinitrophenol"""	"""2,4-Dinitrofenol"""	Ratto	51-28-5	aromaticos	False	True	10	gr
+194	Ar-3	Quinhydrone	Quinhidrona	Merck	106-34-3	aromaticos	False	True	100	gr
+195	Ar-3	Quinhydrone	Quinhidrona	Merck	106-34-3	aromaticos	False	True	100	gr
+196	Ar-4	Trifluoroacetic acid	cido Trifluoroactico	Fluka	76-05-1	aromaticos	False	True	100	mL
+197	Ar-5	Methanesulfonic acid	cido Metansulfnico	Fluka	75-75-2	aromaticos	False	True	100	mL
+198	Ar-6	4-Nitroaniline	4-Nitroanilina	Merck	0100-01-06	aromaticos	False	True	50	gr
+199	Ar-7	4-Amino-3-hydroxy-1-naphthalenesulfonic acid	cido 1-amino-2-naftol-4-sulfnico	(Desconocido)	116-63-2	aromaticos	False	True	50	gr
+200	Ar-8	Hexamethylbenzene	Hexametilbenceno	Fluka	87-85-4	aromaticos	False	True	50	gr
+201	Ar-9	2-Aminophenol	2-aminofenol	Fluka	95-55-6	aromaticos	False	True	25	gr
+202	Ar-9	2-Aminophenol	2-aminofenol	Fluka	95-55-6	aromaticos	False	True	25	gr
+203	Ar-10	o-Anisidine	O-anisidina	Fluka	90-04-0	aromaticos	False	True	250	mL
+204	Ar-10	o-Anisidine	O-anisidina	Fluka	90-04-0	aromaticos	False	True	250	mL
+205	Ar-11	o-Toluidine	O-Toluidina	Mallinckrodt	95-53-4	aromaticos	False	True	10	gr
+206	Ar-11	o-Toluidine	O-Toluidina	Fluka	95-53-4	aromaticos	False	True	100	mL
+207	Ar-11	o-Toluidine	O-Toluidina	UCB	95-53-4	aromaticos	False	True	100	mL
+208	Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	Anedra	59-88-1	aromaticos	False	True	25	gr
+209	Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	Anedra	59-88-1	aromaticos	False	True	25	gr
+210	Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	Anedra	59-88-1	aromaticos	False	True	25	gr
+211	Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	Anedra	59-88-1	aromaticos	False	True	25	gr
+212	Ar-13	o-Phenylenediamine	O-fenilendiamina	ICN	95-54-5	aromaticos	False	True	50	gr
+213	Ar-14	"""4,4?-Ethylenedianiline"""	4-4'-diamino-bibencilo	Fluka	621-95-4	aromaticos	False	True	10	gr
+214	Ar-15	Triphenylmethanol	Trifenil-metanol	Fluka	76-84-6	aromaticos	False	True	10	gr
+215	Ar-16	Benzidine	Bencidina	UCB	92-87-5	aromaticos	False	True	5	gr
+216	Ar-17	"""4,4?-Diaminostilbene """	4-4'-Diamino-estilbeno	Aldrich	54760-75-7	aromaticos	False	True	1	gr
+217	Ar-18	2-Ethylaniline	O-etilanilina	Aldrich	578-54-1	aromaticos	False	True	5	gr
+218	Ar-19	p-Toluenesulfonic acid monohydrate	cido-p-toluensulfnico	Carlo Erba	6192-52-5	aromaticos	False	True	250	gr
+219	Ar-19	p-Toluenesulfonic acid monohydrate	cido-p-toluensulfnico	Carlo Erba	6192-52-5	aromaticos	False	True	500	gr
+220	Ar-20	Benzyl alcohol	Alcohol Benclico	Prodalar		aromaticos	False	True	1	L
+221	Ar-21	Poly(2-Vinylpyridine)	Poli(2-vinilpiridina)	Polysciences		aromaticos	False	True	10	gr
+222	Ar-22	1-Naphthol	alfa-naftol	Merck	90-15-3	aromaticos	False	True	100	gr
+223	Ar-23	2-Naphthol	beta-naftol	Merck	135-19-3	aromaticos	False	True	100	gr
+224	Ar-24	Anthracene	Antraceno	Aldrich	0120-12-7	aromaticos	False	True	25	gr
+225	Ar-25	Quinine sulfate	Sulfato de quinina	BDH	207671-44-1	aromaticos	False	True	100	gr
+226	M-1	L-Cysteine	L-Cistena	Merck	52-90-4	miscelaneos	False	True	25	gr
+227	M-2	Thiourea	Tiourea	Merck	62-56-6	miscelaneos	False	True	250	gr
+228	M-2	Thiourea	Tiourea	Aldrich	62-56-6	miscelaneos	False	True	50	gr
+229	M-3	asbestos	Amianto Sodado	Merck	nn	miscelaneos	False	True	250	gr
+230	M-4	Dimethylglyoxime	Dimetil-glioxima	Merck	95-45-4	miscelaneos	False	True	100	gr
+231	M-5	Silica gel	Slicagel	Cicarelli	112926-00-8	miscelaneos	False	True	1000	gr
+232	M-6	Paraffin oil	Nujol	(Desconocido)	8012-95-1	miscelaneos	False	True	250	mL
+233	M-7	4-penten-1-ol	4-penten-1-ol	Fluka		miscelaneos	False	True	5	ml
+234	M-8	Sephadex	gel dextrano	Sephadex		miscelaneos	False	True	100	gr

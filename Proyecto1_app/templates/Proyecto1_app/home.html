@@ -1,0 +1,62 @@
+{% extends "Proyecto1_app/base.html" %}
+{% load static %}
+{% block content %}       
+
+<style>
+.mi-container{
+
+  
+  width: 85%;
+  margin: 0 auto; /* Agregado para centrar horizontalmente */
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+</style>
+  <section class="page-section clearfix">
+    <div class="mi-container">
+      <div class="row">
+  
+        <!-- Primera Fila -->
+        <div class="col-md-3">
+          <div class="card" style="width:100%; margin: 15px 15px;">
+            <a href="{% url 'material' %}">
+              <img src="{% static 'Proyecto1_app/img/materiales3.jpg'%}" class="card-img-top" >
+            </a>
+          </div>
+        </div>
+  
+        <div class="col-md-3">
+          <div class="card" style="width:100%; margin: 15px 15px;">
+            <a href="{% url 'reactivos' %}">
+              <img src="{% static 'Proyecto1_app/img/reactivos3.jpg'%}" class="card-img-top" >
+            </a>
+          </div>
+        </div>
+  
+        <!-- Segunda Fila -->
+        <div class="col-md-3">
+          <div class="card" style="width:100%; margin: 15px 15px;">
+            <a href="{% url 'equipamiento' %}">
+              <img src="{% static 'Proyecto1_app/img/equipamiento3.jpg'%}" class="card-img-top" >
+            </a>
+          </div>
+        </div>
+  
+        <div class="col-md-3">
+          <div class="card" style="width:100%; margin: 15px 15px;">
+            <a href="{% url 'tareas' %}">
+              <img src="{% static 'Proyecto1_app/img/tareas3.jpg'%}" class="card-img-top" >
+            </a>
+          </div>
+        </div>
+  
+      </div>
+    </div>
+  </section>
+  
+
+
+  {% endblock %}
+
+   

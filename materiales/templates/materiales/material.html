@@ -1,0 +1,111 @@
+{% extends "Proyecto1_app/base.html" %}
+{% load static %}
+
+{% block content %}
+
+
+
+<style>
+  .custom-align-center {
+  display: flex;
+  align-items: center;
+}
+  
+.espacio-en-blanco {
+  height: 20px; /* Ajusta la altura según el espacio que desees */
+}
+
+ 
+.mi-tabla-container {
+    
+   margin:auto;
+    width: 95%;
+    
+
+    }
+    .violet-row {
+        background-color: rgb(74, 74, 185);
+    }
+
+    .even-row {
+        background-color: rgb(255, 255, 255);
+    }
+
+    .odd-row {
+        background-color: #ddc5dd; /* Otra opción para gris claro */
+    }
+
+</style>
+
+<div class="espacio-en-blanco"></div>
+
+<div class="mi-tabla-container">
+  <!-- Agrega un formulario de búsqueda encima de la tabla -->
+  <form class= "mi-tabla-container" method="get" action="{% url 'buscar_materiales' %}">
+      <div class="form-group d-flex">
+          <input type="text" name="q" class="form-control" id="search_input" placeholder="Ingresa tu búsqueda">
+      <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+    
+  </form>
+
+  <div class="espacio-en-blanco"></div>
+
+
+<div class="mi-tabla-container">
+  <table class="table table-bordered text-center">
+      <thead>
+          <tr class="violet-row" >
+              <th>Nombre</th>
+              <th>Cantidad</th>
+              <th>Unidad</th>
+              <th>Ubicación</th>
+              <th>Editar</th>
+              
+          </tr>
+      </thead>
+      <tbody>
+        {% for material in materiales %}
+            <tr class="{% cycle 'even-row' 'odd-row' %}">
+                <td>
+                    <!-- Agrega la etiqueta img para mostrar la imagen -->
+                    
+                    {{ material.titulo }}
+                   
+                </td>
+                <td>{{ material.cantidad }} </td>
+                <td>{{ material.unidad }}</td>
+                <td>{{ material.ubicacion }}</td>
+                <td><a href="{% url 'editar_material' material.id %}">Editar</a></td>
+            </tr>
+        {% endfor %}
+       
+        
+        
+    </tbody>
+
+    
+    
+    </div>
+    
+  </table>
+  <div class="text-center">
+    <!-- Agrega un botón para agregar nuevos productos -->
+    <a href="{% url 'nuevo_material' %}" class="btn btn-primary">Agregar</a>
+
+</div>
+</div>
+
+</div>
+
+
+
+
+<div class="d-flex justify-content-center">
+  <a href="{% url 'exportar_csv_mat' %}" class="btn btn-primary m-2">Exportar lista materiales</a>
+  
+  </div>
+{% endblock %}
+
+
+<div class="espacio-en-blanco"></div>

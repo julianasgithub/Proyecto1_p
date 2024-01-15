@@ -1,0 +1,86 @@
+{% extends "Proyecto1_app/base.html" %}
+{% load static %}
+{% block content %}       
+<style>
+.mi-container {
+    
+  margin:auto;
+   width: 90%;
+}
+.mi-container2 {
+    
+    margin:auto;
+     width: 92%;
+     padding-left: 30px;
+  }
+.espacio-en-blanco {
+  height: 20px; /* Ajusta la altura según el espacio que desees */
+}
+
+  </style>
+
+
+<div class="espacio-en-blanco"></div>
+
+ <!-- Agrega un formulario de búsqueda encima de la tabla -->
+ 
+
+ <form class= "mi-container2"  method="get" action="{% url 'buscar_equipamiento' %}">
+  <div class="form-group d-flex" style="margin: auto; align-items: center" >
+      <input type="text" name="q" class="form-control" id="search_input" placeholder="Ingresa tu búsqueda">
+  <button type="submit" class="btn btn-primary">Buscar</button>
+</div>
+</form>
+
+
+<div class="mi-container">
+  <div class="row">
+  {% for equipamiento in equipamientos%}
+    <div class="col-md-3">
+      <div class="card" style="width:100%; margin: 15px 15px">
+      <h5 class="card-title" style="text-align: center; padding-top:10px ;">{{ equipamiento.titulo }} </h5>
+      <h7 class="card-title" style="text-align: center;">{{equipamiento.contenido}}</h7>
+      {% if equipamiento.imagen %}
+      <img src="{{equipamiento.imagen.url}}" class="card-img-top">
+      {%else%}
+      <img src='/media/equipamiento/logo_lmb.jpg' class="card-img-top">
+      {%endif%}
+        <div class="card-body" style="text-align: center;">
+
+
+        <p class="card-text">Ubicacion: {{equipamiento.ubicacion}}</p>
+          <div class="card-body" style="text-align: center;">
+          <p class="card-text">
+            
+            {% if equipamiento.manual and equipamiento.POE %}
+            <a href="{{ equipamiento.manual.url }}" target="_blank">Manual</a> - <a href="{{ equipamiento.POE.url }}" target="_blank">POE</a>
+        {% elif equipamiento.manual %}
+            <a href="{{ equipamiento.manual.url }}" target="_blank">Manual</a> - <a href="{% url 'cargar_archivo' equipamiento.id %}">Cargar POE</a>
+        {% elif equipamiento.POE %}
+            <a href="{% url 'cargar_archivo' equipamiento.id %}">Cargar Manual</a> - <a href="{{ equipamiento.POE.url }}" target="_blank">POE</a>
+        {% else %}
+            <a href="{% url 'cargar_archivo' equipamiento.id %}">Cargar Manual/POE</a> 
+        {% endif %}
+          </p>
+          <p class="card-text">Responsable: {{equipamiento.responsable}}</p>
+
+          <p class="card-text">
+            <a href="{% url 'editar_equipamiento' equipamiento.id %}">Editar</a>
+          </p>
+       
+          </div>
+        </div>
+      </div>
+    </div>
+   
+    {% endfor %}
+  </div>
+</div>
+
+<div class="text-center">
+  <a href="{% url 'nuevo_equipamiento' %}" class="btn btn-primary">Agregar Equipo</a>
+</div>
+{% endblock %}
+
+
+

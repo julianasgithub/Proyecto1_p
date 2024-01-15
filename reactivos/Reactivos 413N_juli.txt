@@ -1,0 +1,1011 @@
+identificacion	name	nombre	cantidad	marca	cas	categoria	sedronar	abierto
+C-1	neutral red	Rojo neutro	5gr	Erovne	553-24-2	colorantes	False	True
+C-2	pan-1-(2-pyridylazo)2-naphtol	PAN- piridilazonaftol	1 gr	UCB	85-85-8	colorantes	False	True
+C-3	Methyl Red	rojo de metilo	5 gr	Merck	493-52-7	colorantes	False	True
+C-4	4-(2-Pyridylazo)resorcinol monosodium salt hydrate	PAN- piridilazoresorcinol sal sódica	2.5 gr	Koch-Light	16593-81-0	colorantes	False	True
+C-5	Eriochrome Black T	negro de eriocromo T	25 gr	UCB	1787-61-7	colorantes	False	True
+C-6	Metanil Yellow	amarillo de metanilo		desc	587-98-4	colorantes	False	True
+C-7	Aluminon	Aluminon	10 gr	BDH	569-58-4	colorantes	False	True
+C-8	Phenolphthalein	fenolftaleína	100 gr	Mallinckrodt	77-09-8	colorantes	False	True
+C-9	Bromocresol green	verde de bromocresol	1 gr	Purest	76-60-8	colorantes	False	True
+C-10	Acid Fuchsin	Fucsina	10 gr	Química Labor	3244-88-0	colorantes	False	True
+C-11	Methyl violet B 	violeta de metilo	10 gr			colorantes	False	True
+I-01	Cadmium sulphate	sulfato de cadmio	250 gr	Mallinckrodt	10124-36-4	inorganicos	False	True
+I-01	Cadmium sulphate	sulfato de cadmio	20 gr	Aldrich	10124-36-4	inorganicos	False	True
+I-01	Cadmium sulphate	sulfato de cadmio	20 gr	Analar	10124-36-4	inorganicos	False	True
+I-02	Lead(II) oxide	óxido de plomo (II)	125 gr	Analar	1317-36-8	inorganicos	False	True
+I-03	Hydroxylammonium sulfate	sulfato de hidroxilamonio	100 gr	Merck	10039-54-0	inorganicos	False	True
+I-04	Ruthenium(III) chloride	cloruro de rutenio	500 mg	Merck		inorganicos	False	True
+I-05	Mercury(II) nitrate monohydrate	nitrato de mercurio (I) monohidrato	100 gr	Carlo Erba	7783-34-8	inorganicos	False	True
+I-06	Sodium thiosulfate	tiosulfato de sodio	250 gr	Mallinckrodt	10102-17-7	inorganicos	False	True
+I-07	Ammonium iron(III) sulfate	Sulfato Férrico Amónico	100 gr	Merck	7783-83-7	inorganicos	False	True
+I-08	Mercury(I) sulfate	sulfato de mercurio (I)	25 gr	Aldrich	7783-36-0	inorganicos	False	True
+I-09	Lead(II) nitrate	Nitrato de Plomo	250 gr	Mallinckrodt	10099-74-8	inorganicos	False	True
+I-10	Iodine	iodo	100 gr	Soria Farma	7553-56-2	inorganicos	True	True
+I-11	Silver perchlorate	perclorato de plata	25 gr	BDH	7783-93-9	inorganicos	False	True
+I-12	Lead(II) carbonate basic	carbonato básico de plomo	250 gr	BDH	1319-46-6	inorganicos	False	True
+I-13	Hydroxylamine hydrochloride	cloruro de hidroxilamina	500 gr	Mallinckrodt	1/11/5470	inorganicos	False	True
+I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	2x 50 gr	Merck	7783-34-8	inorganicos	False	True
+I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	100 gr	Riedel-DeHaen	7783-34-8	inorganicos	False	True
+I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	100 gr	Merck	7783-34-8	inorganicos	False	True
+I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	50 gr	Merck	7783-34-8	inorganicos	False	True
+I-14	Mercury(II) nitrate monohydrate	nitrato de mercurio (II)	250 gr	Carlo Erba	7783-34-8	inorganicos	False	True
+I-15	Europium(III) chloride hexahydrate	Cloruro de Europio hexahidrato	5 gr	Aldrich	13759-92-7	inorganicos	False	True
+I-16	Sodium periodate	peryodato de sodio	100 gr	Merck	7790-28-5	inorganicos	False	True
+I-17	Silver nitrate	nitrato de plata	100 gr	Anedra	7761-88-8	inorganicos	False	True
+I-17	Silver nitrate	nitrato de plata	100 gr	Merck	7761-88-8	inorganicos	False	True
+I-18	Ammonium hexachloroosmate(IV)	Hexacloroosmato de Amonio	500 mg	Aldrich		inorganicos	False	True
+I-19	Ammonium cerium(IV) sulfate dihydrate	Sulfato Cérico Amónico	100 gr	Merck	10378-47-9	inorganicos	False	True
+I-20	mercury	Mercurio	1 Kg	Cicarelli	7439-97-6	inorganicos	False	True
+I-20	mercury	Mercurio	1 Kg	Cicarelli	7439-97-6	inorganicos	False	True
+I-20	mercury	Mercurio	1 Kg	Timper	7439-97-6	inorganicos	False	True
+I-21	Lead(II) fluoride	fluoruro de plomo	100 gr	Aldrich	7783-46-2	inorganicos	False	True
+I-22	Potassium permanganate	permanganato de potasio	750 gr	Parafarm	7722-64-7	inorganicos	True	True
+I-23	Sodium nitrite	nitrito de sodio	1000 gr	Carlo Erba	7632-00-0	inorganicos	False	True
+I-24	potassium ethyl xanthogenate	etilxantato de potasio	200 gr	Flucka	140-89-6	inorganicos	False	True
+I-25	Chromium(VI) oxide	trióxido de cromo	250 gr	BDH	1333-82-0	inorganicos	False	True
+I-26	Aluminum potassium sulfate dodecahydrate	sulfato de potasio y aluminio	500 gr	Analar	7784-24-9	inorganicos	False	True
+I-27	Potassium chromate	cromato de potasio	250 gr	Carlo Erba	7789-00-6	inorganicos	False	True
+I-28	Lithium hydroxide	hidróxido de litio	250 gr	Merck	7790-84-3	inorganicos	False	True
+I-28	Lithium hydroxide	hidróxido de litio	250 gr	H&W	7790-84-3	inorganicos	False	True
+I-29	Sodium sulfite	sulfito de sodio	1000 gr	Mallinckrodt	7757-83-7	inorganicos	False	True
+I-30	Cupric sulfate pentahydrate	sulfato cúprico	250 gr	Merck	7758-99-8	inorganicos	False	True
+I-30	Cupric sulfate pentahydrate	sulfato cúprico	500 gr	AnalQuim	7758-99-8	inorganicos	False	True
+I-30	Cupric sulfate pentahydrate	sulfato cúprico	500 gr	BDH	7758-99-8	inorganicos	False	True
+I-31	Sodium metavanadate	monovanadato de sodio	100 gr	Merck	13718-26-8	inorganicos	False	True
+I-32	Neochromium	sulfato basico de cromo (III) -neocromo	500 gr	Riedel-DeHaen	64093-79-4	inorganicos	False	True
+I-33	Sodium iodide	ioduro de sodio	250 gr	Merck	7681-82-5	inorganicos	False	True
+I-34	Iron(III) sulfate hydrate	sulfato férrico	100 gr	Mallinckrodt		inorganicos	False	True
+I-35	Zinc metal	"zinc, granallas"	1000 gr	Merck	7440-66-6	inorganicos	False	True
+I-35	Zinc metal	"zinc, granallas"	1000 gr	Merck	7440-66-6	inorganicos	False	True
+I-36	Potassium thiocyanate	tiocianato de potasio	250 gr	Merck	333-20-0	inorganicos	False	True
+I-37	Mercury(II) chloride	cloruro de mercurio (II)	100 gr	Analar	7487-94-7	inorganicos	False	True
+I-37	Mercury(II) chloride	cloruro de mercurio (II)	100 gr	Timper	7487-94-7	inorganicos	False	True
+I-38	Manganese sulfate	sulfato de manganeso	250 gr	Merck	10034-96-5	inorganicos	False	True
+I-39	Copper(II) oxide	oxido cúprico	200 gr	Carlo Erba	1317-38-0	inorganicos	False	True
+I-40	Iron(III) chloride hexahydrate	cloruro férrico	100 gr	Merck	10025-77-1	inorganicos	False	True
+I-40	Iron(III) chloride hexahydrate	cloruro férrico	500 gr	J.T. Baker	10025-77-1	inorganicos	False	True
+I-41	Ferrous sulfate	Sulfato Ferroso	500 gr	Merck	7782-63-0	inorganicos	False	True
+I-42	Sodium dichromate dihydrate	Dicromato de Sodio dihidrato	1 Kg	Mallinckrodt	7789-12-0	inorganicos	False	True
+I-43	Potassium bromide	bromuro de potasio	500 gr	Merck	7758-02-03	inorganicos	False	True
+I-43	Potassium bromide	bromuro de potasio	250 gr	Anedra	7758-02-03	inorganicos	False	True
+I-43	Potassium bromide	bromuro de potasio	100 gr	Desconocido	7758-02-03	inorganicos	False	True
+I-44	Sodium fluoride	fluoruro de sodio	250 gr	Merck	7681-49-4	inorganicos	False	True
+I-44	Sodium fluoride	fluoruro de sodio	25 gr	Merck	7681-49-4	inorganicos	False	True
+I-44	Sodium fluoride	fluoruro de sodio	50 gr	Aristar	7681-49-4	inorganicos	False	True
+I-45	Potassium dichromate	dicromato de potasio	250 gr	Mallinckrodt	7778-50-9	inorganicos	False	True
+I-45	Potassium dichromate	dicromato de potasio	1000 gr	(Desconocido)	7778-50-9	inorganicos	False	True
+I-46	Potassium iodide	ioduro de potasio	250 gr	Merck	7681-11-0	inorganicos	False	True
+I-46	Potassium iodide	ioduro de potasio	250 gr	RHODIA	7681-11-0	inorganicos	False	True
+I-47	Chromium(III) sulfate hydrate	Sulfato de Cromo (III)	250 gr	Carlo Erba	15244-38-9	inorganicos	False	True
+I-48	Nickel(II) sulfate hexahydrate	Sulfato de Níquel Heptahidratado	250 gr	Merck	10101-97-0	inorganicos	False	True
+I-49	Antimony(III) chloride	Cloruro de Antimonio	100 gr	Analar	10025-91-9	inorganicos	False	True
+I-49	Antimony(III) chloride	Cloruro de Antimonio	250 gr	Riedel-DeHaen	10025-91-9	inorganicos	False	True
+I-50	Aluminum chloride	Cloruro de Aluminio	1000 gr	Merck	7446-70-0	inorganicos	False	True
+I-51	Zinc sulfate	Sulfato de Zinc	100 gr	(Desconocido)	7446-20-0	inorganicos	False	True
+I-51	Zinc sulfate heptahydrate	Sulfato de Zinc heptahidratado	100 gr	Mallinckrodt	7446-20-0	inorganicos	False	True
+I-52	Sodium bromide	Bromuro de Sodio	250 gr	Mallinckrodt	7647-15-6	inorganicos	False	True
+I-53	Ammonium persulfate	Persulfato de Amonio	250 gr	Anedra	7727-54-0	inorganicos	False	True
+I-54	Stannous chloride dihydrate	cloruro de estaño.2 H2O	100gr	Merck	10025-69-1	inorganicos	False	True
+I-54	Stannous chloride dihydrate	cloruro de estaño.2 H2O	250 gr	Mallinckrodt	10025-69-1	inorganicos	False	True
+I-55	Phosphorus pentoxide	oxido de fosforo	100 gr	Flucka	1314-56-3	inorganicos	False	True
+I-55	Phosphorus pentoxide	oxido de fosforo	500 gr	Riedel-DeHaen	1314-56-3	inorganicos	False	True
+I-56	Bismuth(III) nitrate pentahydrate	nitrato de bismuto	100 gr	Carlo Erba	10035-06-0	inorganicos	False	True
+I-57	Mercury(I) chloride	Cloruro de mercurio (I)	25 gr	Merck	10112-91-1	inorganicos	False	True
+I-58	Lead (II) sulfate	Sulfato de plomo (II)	10 gr	Aldrich		inorganicos	False	True
+I-59	Gallium (III) oxide	Óxido de galio (III)	1 gr	Aldrich		inorganicos	False	True
+I-60	Germanium dioxide	Dióxido de Germanio	10 gr	Aldrich		inorganicos	False	True
+I-61 	sodium metasilicate	Metasilicato de sodio	5 gr	Desconocido		inorganicos	False	True
+I-62	arsenic trioxide 	trióxido de arsénico	30 gr	Mallinckrodt		inorganicos	False	True
+I-62	arsenic trioxide 	trióxido de arsénico	5 gr	Desconocido		inorganicos	False	True
+I-63	silver paint	pintura de plata				inorganicos	False	True
+I-64	cobalt (II) sulfate heptahydrate	sulfato de cobalto (II) heptahidratado	2 gr	Mallinckrodt		inorganicos	False	True
+I-65	silver sulfate	sulfato de plata	50 gr	(Aanalar)		inorganicos	False	True
+I-65	silver sulfate	sulfato de plata	2 gr	Merck		inorganicos	False	True
+I-66	sodium thiocyanate	tiocianato de sodio	100 gr	Mallinckrodt		inorganicos	False	True
+I-67	Nickel fluoride	Fluoruro de nickel	100 g	BDH	10028-18-9	inorganicos	False	True
+A-1	Nitric acid	ácido nítrico	1 L	Merck	7697-37-2	ácidos	False	True
+A-1	Nitric acid	ácido nítrico	0.7 L	Merck	7697-37-2	ácidos	False	True
+A-1	Nitric acid	ácido nítrico	1.25 L	Mallinckrodt	7697-37-2	ácidos	False	True
+A-2	Hydrochloric acid	ácido Clorhídrico	1.5	Merck	7647-01-0	ácidos	True	True
+A-2	Hydrochloric acid	ácido Clorhídrico	5	Carlo Erba	7647-01-0	ácidos	True	True
+A-2	Hydrochloric acid	ácido Clorhídrico	1	JT Baker	7647-01-0	ácidos	True	True
+A-2	Hydrochloric acid	ácido Clorhídrico	1	Anedra	7647-01-0	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico	0.5	Merck	7664-93-9	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico	1.5	Merck	7664-93-9	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico	2.4	Merck	7664-93-9	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico	0.7	Carlo Erba	7664-93-9	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico fumante	0.95	Carlo Erba	7664-93-9	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico	0.6	JT Baker	7664-93-9	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico	0.6	Merck	7664-93-9	ácidos	True	True
+A-3	Sulfuric acid	ácido sulfúrico	2.5	Carlo Erba	7664-93-9	ácidos	True	True
+A-4	Perchloric acid	ácido perclórico	1	Merck	7601-90-3	ácidos	False	True
+A-4	Perchloric acid	ácido perclórico	0.8	Merck	7601-90-3	ácidos	False	True
+A-4	Perchloric acid	ácido perclórico	2	Merck	7601-90-3	ácidos	False	True
+A-4	Perchloric acid	ácido perclórico	0.8	Merck	7601-90-3	ácidos	False	True
+A-5	Tetrafluoroboric acid	ácido fluorobórico 50%	0.9	Riedel-DeHaen	16872-11-0	ácidos	False	True
+S-1	1-Methyl-2-pyrrolidinone	N-metil 2 pirrolidona	0.5 L	Fluka	872-50-4	solventes	False	True
+S-1	1-Methyl-2-pyrrolidinone	N-metil 2 pirrolidona	1L	Aldrich	872-50-4	solventes	False	True
+S-1	1-Methyl-2-pyrrolidinone	N-metil 2 pirrolidona	1L	Anedra	872-50-4	solventes	False	True
+S-2	"Ethyl alcohol, Pure"	etanol abs	0.5 L	Anedra	64-17-5	solventes	True	True
+S-3	Ammonium hydroxide solution	hidróxido de amonio	0.8 L	Cicarelli	1336-21-6	solventes	True	True
+S-4	Extran® MA 02 | 107553 - Merck Millipore	Extran MA 02 neutro	0.4 L	Merck	nn	solventes	False	True
+E-1	Sodium hydroxide	Hidróxido de Sodio	0.7	Mallinckrodt	1310-73-2	electrolitos_buffers	True	True
+E-1	Sodium hydroxide	Hidróxido de Sodio	0.7	Merck	1310-73-2	electrolitos_buffers	True	True
+E-1	Sodium hydroxide	Hidróxido de Sodio	0.6	Carlo Erba	1310-73-2	electrolitos_buffers	True	True
+E-1	Sodium hydroxide	Hidróxido de Sodio	0.7	Merck	1310-73-2	electrolitos_buffers	True	True
+E-2	Sodium carbonate	Carbonato de Sodio	0.25	Merck	497-19-8	electrolitos_buffers	True	True
+E-2	Sodium carbonate	Carbonato de Sodio	0.25	Merck	497-19-8	electrolitos_buffers	True	True
+E-2	Sodium carbonate	Carbonato de Sodio	0.1	Mallinckrodt	497-19-8	electrolitos_buffers	False	True
+E-3	Potassium bisulfate	Sulfato ácido de Potasio	1	Carlo Erba	7646-93-7	electrolitos_buffers	False	True
+E-4	Potassium sulfate	Sulfato de Potasio	0.15	Anal Chim	7778-80-5	electrolitos_buffers	False	True
+E-4	Potassium sulfate	Sulfato de Potasio	0.05	Merck	7778-80-5	electrolitos_buffers	False	True
+E-4	Potassium sulfate	Sulfato de Potasio	0.05	Merck	7778-80-5	electrolitos_buffers	False	True
+E-4	Potassium sulfate	Sulfato de Potasio	0.1	Merck	7778-80-5	electrolitos_buffers	False	True
+E-4	Potassium sulfate	Sulfato de Potasio	0.4	Baker	7778-80-5	electrolitos_buffers	False	True
+E-4	Potassium sulfate	Sulfato de Potasio	0.05	Merck	7778-80-5	electrolitos_buffers	False	True
+E-5	Sodium sulfate	Sulfato de Sodio	0.05	Merck	7757-82-6	electrolitos_buffers	True	True
+E-5	Sodium sulfate	Sulfato de Sodio	0.1	Anedra	7757-82-6	electrolitos_buffers	True	True
+E-5	Sodium sulfate	Sulfato de Sodio	0.05	Merck	7757-82-6	electrolitos_buffers	True	True
+E-6	Potassium chloride	Cloruro de Potasio	1	Biopack	7447-40-7	electrolitos_buffers	False	True
+E-7	Potassium nitrate	Nitrato de Potasio	1	Carlo Erba	7757-79-1	electrolitos_buffers	False	True
+E-7	Potassium nitrate	Nitrato de Potasio	0.5	Merck	7757-79-1	electrolitos_buffers	False	True
+E-7	Potassium nitrate	Nitrato de Potasio	1	Carlo Erba	7757-79-1	electrolitos_buffers	False	True
+E-7	Potassium nitrate	Nitrato de Potasio	1	Carlo Erba	7757-79-1	electrolitos_buffers	False	True
+E-8	Sodium chloride	Cloruro de Sodio	1	Merck	7647-14-5	electrolitos_buffers	False	True
+E-9	Sodium phosphate dibasic 	Fosfato de Sodio dibásico	0.5	J.T. Baker	7558-79-4	electrolitos_buffers	False	True
+E-10	Sodium phosphate monobasic	Fosfato de Potasio monobásico	0.5	Anedra	7558-80-7	electrolitos_buffers	False	True
+E-11	Edetate disodium (EDTA disodium salt)	Etilendiamina tetraacetato de Sodio (EDTA)	0.5	Mallinckrodt	6381-92-6	electrolitos_buffers	False	True
+E-12	Ammonium acetate	Acetato de Amonio	1	Cicarelli	631-61-8	electrolitos_buffers	False	True
+E-13	Boric acid	Ácido Bórico	1	Merck	10043-35-3	electrolitos_buffers	False	True
+E-14	Silicic acid	Ácido Silícico	0.5	Mallinckrodt	1343-98-2	electrolitos_buffers	False	True
+E-15	Oxalic acid	Ácido Oxálico	0.5	Carlo Erba	144-62-7	electrolitos_buffers	False	True
+E-16	Potassium hydrogen phthalate	Biftalato de Potasio	0.25	Merck	877-24-7	electrolitos_buffers	False	True
+E-16	Potassium hydrogen phthalate	Biftalato de Potasio	0.1	Fluka	877-24-7	electrolitos_buffers	False	True
+E-17	Lithium perchlorate	Perclorato de Litio	0.25	Merck	7791-03-09	electrolitos_buffers	False	True
+E-17	Lithium perchlorate	Perclorato de Litio	0.5	Fluka	7791-03-09	electrolitos_buffers	False	True
+E-18	Sodium perchlorate monohydrate	Perclorato de Sodio monohidratado	1	Fluka	7791-07-03	electrolitos_buffers	False	True
+E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	0.5	Merck	14459-95-1	electrolitos_buffers	False	True
+E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	0.5	Mallinckrodt	14459-95-1	electrolitos_buffers	False	True
+E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	0.5	Mallinckrodt	14459-95-1	electrolitos_buffers	False	True
+E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	1	Mallinckrodt	14459-95-1	electrolitos_buffers	False	True
+E-19	Potassium hexacyanoferrate(II)	Ferrocianuro de Potasio	0.1	Carlo Erba	14459-95-1	electrolitos_buffers	False	True
+E-20	Potassium ferricyanide(III)	Ferricianuro de Potasio	0.1	Fluka	13746-66-2	electrolitos_buffers	False	True
+E-20	Potassium ferricyanide(III)	Ferricianuro de Potasio	0.1	Merck	13746-66-2	electrolitos_buffers	False	True
+E-21	Tetrabutylammonium hexafluorophosphate	Hexafluorofosfato de terbutilamonio	0.1	Aldrich	3109-63-5	electrolitos_buffers	False	True
+E-21	Tetrabutylammonium hexafluorophosphate	Hexafluorofosfato de terbutilamonio	0.1	Aldrich	3109-63-5	electrolitos_buffers	False	True
+E-22	Tetramethylammonium tetrafluoroborate	Tetrafluoroborato de tetrametilamonio	0.05	Fluka	661-36-9	electrolitos_buffers	False	True
+E-22	Tetramethylammonium tetrafluoroborate	Tetrafluoroborato de tetrametilamonio	0.05	Fluka	661-36-9	electrolitos_buffers	False	True
+E-22	Tetramethylammonium tetrafluoroborate	Tetrafluoroborato de tetrametilamonio	0.1	Aldrich	661-36-9	electrolitos_buffers	False	True
+E-23	Tetramethylammonium hexafluorophosphate	Hexafluorofosfato de tetrametilamonio	0.025	Aldrich	558-32-7	electrolitos_buffers	False	True
+E-24	Tetramethylammonium bromide	Bromuro de tetrametilamonio	0.5	Eastman	64-20-0	electrolitos_buffers	False	True
+E-25	Tetraethylammonium perchlorate	Perclorato de tetraetilamonio	0.025	Carlo Erba	2567-83-1	electrolitos_buffers	False	True
+E-25	Tetraethylammonium perchlorate	Perclorato de tetraetilamonio	0.1	Eastman	2567-83-1	electrolitos_buffers	False	True
+E-26	Sodium tetraborate decahydrate	Borato de Sodio	0.5	Mallinckrodt	1303-96-4	electrolitos_buffers	False	True
+E-27	Potassium perchlorate	Perclorato de Potasio	0.25	Carlo Erba	7778-74-7	electrolitos_buffers	False	True
+E-27	Potassium perchlorate	Perclorato de Potasio	0.25	C&B	7778-74-7	electrolitos_buffers	False	True
+E-28	Lithium nitrate	Nitrato de Litio	0.25	Fluka	7790-69-4	electrolitos_buffers	False	True
+E-29	Ammonium fluoride	Fluoruro de Amonio	0.1	Anedra		electrolitos_buffers	False	True
+E-30	Potassium hexafluorophosphate	Hexafluorofosfato de Potasio	0.5	Ozark	17084-13-8	electrolitos_buffers	False	True
+E-40	potassium phosphate monobasic	Fosfato monobásico de potasio	0.2	Mallinckrodt		electrolitos_buffers	False	True
+E-40	potassium phosphate monobasic	Fosfato monobásico de potasio	1	Merck		electrolitos_buffers	False	True
+E-41	Tetraethylammonium chloride	Cloruro de tetraetilamonio	0.01	BDH	56-34-8	electrolitos_buffers	False	True
+Ar-1	Benzoic acid	Ácido Benzoico	100 gr	Anedra	65-85-0	aromaticos	False	True
+Ar-1	Benzoic acid	Ácido Benzoico	500 gr	Aldrich	65-85-0	aromaticos	False	True
+Ar-2	"2,4-Dinitrophenol"	"2,4-Dinitrofenol"	10 gr	Ratto	51-28-5	aromaticos	False	True
+Ar-3	Quinhydrone	Quinhidrona	100 gr	Merck	106-34-3	aromaticos	False	True
+Ar-3	Quinhydrone	Quinhidrona	100 gr	Merck	106-34-3	aromaticos	False	True
+Ar-4	Trifluoroacetic acid	Ácido Trifluoroacético	100 mL	Fluka	76-05-1	aromaticos	False	True
+Ar-5	Methanesulfonic acid	Ácido Metansulfónico	100 mL	Fluka	75-75-2	aromaticos	False	True
+Ar-6	4-Nitroaniline	4-Nitroanilina	50 gr	Merck	0100-01-06	aromaticos	False	True
+Ar-7	4-Amino-3-hydroxy-1-naphthalenesulfonic acid	Ácido 1-amino-2-naftol-4-sulfónico	50 gr	(Desconocido)	116-63-2	aromaticos	False	True
+Ar-8	Hexamethylbenzene	Hexametilbenceno	50 gr	Fluka	87-85-4	aromaticos	False	True
+Ar-9	2-Aminophenol	2-aminofenol	25 gr	Fluka	95-55-6	aromaticos	False	True
+Ar-9	2-Aminophenol	2-aminofenol	25 gr	Fluka	95-55-6	aromaticos	False	True
+Ar-10	o-Anisidine	O-anisidina	250 mL	Fluka	90-04-0	aromaticos	False	True
+Ar-10	o-Anisidine	O-anisidina	250 mL	Fluka	90-04-0	aromaticos	False	True
+Ar-11	o-Toluidine	O-Toluidina	10 gr	Mallinckrodt	95-53-4	aromaticos	False	True
+Ar-11	o-Toluidine	O-Toluidina	100 mL	Fluka	95-53-4	aromaticos	False	True
+Ar-11	o-Toluidine	O-Toluidina	100 mL	UCB	95-53-4	aromaticos	False	True
+Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	25 gr	Anedra	59-88-1	aromaticos	False	True
+Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	25 gr	Anedra	59-88-1	aromaticos	False	True
+Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	25 gr	Anedra	59-88-1	aromaticos	False	True
+Ar-12	Phenylhydrazine hydrochl	Fenilhidracina clorhidrato	25 gr	Anedra	59-88-1	aromaticos	False	True
+Ar-13	o-Phenylenediamine	O-fenilendiamina	50 gr	ICN	95-54-5	aromaticos	False	True
+Ar-14	"4,4?-Ethylenedianiline"	4-4'-diamino-bibencilo	10 gr	Fluka	621-95-4	aromaticos	False	True
+Ar-15	Triphenylmethanol	Trifenil-metanol	10 gr	Fluka	76-84-6	aromaticos	False	True
+Ar-16	Benzidine	Bencidina	5 gr	UCB	92-87-5	aromaticos	False	True
+Ar-17	"4,4?-Diaminostilbene "	4-4'-Diamino-estilbeno	1 gr	Aldrich	54760-75-7	aromaticos	False	True
+Ar-18	2-Ethylaniline	O-etilanilina	5 gr	Aldrich	578-54-1	aromaticos	False	True
+Ar-19	p-Toluenesulfonic acid monohydrate	Ácido-p-toluensulfónico	250 gr	Carlo Erba	6192-52-5	aromaticos	False	True
+Ar-19	p-Toluenesulfonic acid monohydrate	Ácido-p-toluensulfónico	500 gr	Carlo Erba	6192-52-5	aromaticos	False	True
+Ar-20	Benzyl alcohol	Alcohol Bencílico	1L	Prodalar		aromaticos	False	True
+Ar-21	Poly(2-Vinylpyridine)	Poli(2-vinilpiridina)	10 gr	Polysciences		aromaticos	False	True
+Ar-22	1-Naphthol	alfa-naftol	100gr	Merck	90-15-3	aromaticos	False	True
+Ar-23	2-Naphthol	beta-naftol	100gr	Merck	135-19-3	aromaticos	False	True
+Ar-24	Anthracene	Antraceno	25gr	Aldrich	0120-12-7	aromaticos	False	True
+Ar-25	Quinine sulfate	Sulfato de quinina	100gr	BDH	207671-44-1	aromaticos	False	True
+M-1	L-Cysteine	L-Cisteína	25 gr	Merck	52-90-4	miscelaneos	False	True
+M-2	Thiourea	Tiourea	250 gr	Merck	62-56-6	miscelaneos	False	True
+M-2	Thiourea	Tiourea	50 gr	Aldrich	62-56-6	miscelaneos	False	True
+M-3	asbestos	Amianto Sodado	250 gr	Merck	nn	miscelaneos	False	True
+M-4	Dimethylglyoxime	Dimetil-glioxima	100 gr	Merck	95-45-4	miscelaneos	False	True
+M-5	Silica gel	Sílicagel	1000 gr	Cicarelli	112926-00-8	miscelaneos	False	True
+M-6	Paraffin oil	Nujol	250 mL	(Desconocido)	8012-95-1	miscelaneos	False	True
+M-7	4-penten-1-ol	4-penten-1-ol	5 ml	Fluka		miscelaneos	False	True
+M-8	Sephadex	gel dextrano	100 gr	Sephadex		miscelaneos	False	True
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
